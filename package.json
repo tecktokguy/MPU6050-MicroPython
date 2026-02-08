@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["mp_mpu6050/mp_mpu6050.py", "github:tecktokguy/MPU6050-MicroPython/MPU6050.py"],
+  ],
+  "deps": [],
+  "version": "0.2.1"
+}
