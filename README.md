@@ -1,4 +1,4 @@
-#Before you start reading
+# Before you start reading
 This is just a fork that add package.json, I writed nothing in all of that
 
 # MPU6050-MicroPython
